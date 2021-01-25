@@ -1,0 +1,58 @@
+.title {
+    color: lightseagreen;
+    background-color: darkslategray;
+    border: 3px solid black;
+    padding: 15px 20px 5px 20px;
+    margin: auto;
+    width: 200px;
+    height: ;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-weight: lighter;
+}
+
+#text1 {
+    color: burlywood;
+    background: darkolivegreen;
+    border: 3px dotted lightsteelblue;
+    padding: 5px 10px 5px 10px;
+    width: 175px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+hr {
+    color: black;
+    background-color: cornflowerblue;
+    border: 3px solid black;
+    height: 5px;
+}
+
+.list {
+    color: darkslategray;
+    background-color: darkcyan;
+    background-position: left;
+    padding: 2px 0 2px 0;
+    width: 184px;
+    height: -30px;
+}
+
+#profile {
+    color: midnightblue;
+    border: 2px solid midnightblue;
+    padding: 2px 2px;
+    margin: 20px 30px;
+    width: 110px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+a:hover {
+    color: whitesmoke;
+}
+
+.pic {
+    padding: 3px 3px;
+    margin: 80px;
+    float: left;
+}

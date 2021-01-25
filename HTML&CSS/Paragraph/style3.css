@@ -1,0 +1,14 @@
+body {
+    font-size: 20px;
+}
+
+p {
+    font-size: 2rem;
+    font-family: 'Raleway', sans-serif;
+}
+
+.keypoint {
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+}
